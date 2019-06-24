@@ -1,4 +1,4 @@
-# simple-web
+# Kate's Note
 
 link to site : https://kate0225.github.io/simple-web/
 
