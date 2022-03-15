@@ -1,4 +1,4 @@
-# Kate's Note
+# Katz Note
 
 link to site : https://kate0225.github.io/simple-web/
 
